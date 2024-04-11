@@ -1,0 +1,5 @@
+ultralytics
+# streamlit
+opencv-contrib-python-headless
+# flask_cors
+# flask
